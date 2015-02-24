@@ -1,0 +1,7 @@
+{
+    "name": "handlebars-runtime",
+    "version": "3.0.0",
+    "main": "handlebars.runtime.js",
+    "dependencies": {
+    }
+}
